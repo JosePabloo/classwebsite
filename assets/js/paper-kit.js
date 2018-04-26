@@ -1,17 +1,4 @@
-/*!
 
- =========================================================
- * Paper Kit 2 PRO - v2.1.0
- =========================================================
-
- * Product Page: http://www.creative-tim.com/product/paper-kit-2-pro
- * Copyright 2017 Creative Tim (http://www.creative-tim.com)
- * License Creative Tim (https://www.creative-tim.com/license)
-
- =========================================================
-
- * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
- */
 
 var searchVisible = 0;
 var transparent = true;
